@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無量壽經優波提舍
+#+DATE: 2015-08-30 20:02:45.266437
+#+PROPERTY: JUAN 0
